@@ -1,6 +1,6 @@
 **Supervised ML algorithms** :octocat:
 
-   ***Classifiction and Regression***
+   ***Classification and Regression***
  
        1. Classification ( discrete value outputs / Categorical )
                 a.  Logistic Regression
