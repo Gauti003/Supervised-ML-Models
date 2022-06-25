@@ -8,7 +8,8 @@
                 c.  Random Forest
                 d.  Support vector Machines
                 
-               In Classification, the goal is to pedict the class labels from a predefined list of possibilities of examples.
+               In Classification, the goal is to pedict the class labels from a predefined list of 
+               possibilities of examples.
                eg: cat/not cat, men/women, good/bad 
                 
        2. Regression (Continuous Value Outputs)
@@ -48,7 +49,8 @@
                 in the data, and your model will do badly even on the training set. Choosing too simple a model is called 
                 Underfitting.
                 
-                
+                ![image](https://user-images.githubusercontent.com/100043062/175775809-5236b9f8-db64-4f7a-be48-aeb3a14e33ac.png)
+
                 
                 
                 
