@@ -49,7 +49,19 @@
                 in the data, and your model will do badly even on the training set. Choosing too simple a model is called 
                 Underfitting.
                 
-                ![image](https://user-images.githubusercontent.com/100043062/175775809-5236b9f8-db64-4f7a-be48-aeb3a14e33ac.png)
+   ***Model Complexity vs Data Size***
+          
+                Model complexity is intimately tied to the variation of inputs contained in 
+                your training dataset.
+                
+                The larger variety of data points your dataset  contains, 
+                the more complex a model you can use without overfitting. 
+                
+                Usually, collecting more data points will yield more variety, so larger datasets 
+                allow building more complex models. However, simply duplicating the same data points 
+                or collecting very similar data will not help.
+                
+                
 
                 
                 
