@@ -1,1 +1,2 @@
-##Supervised ML algorithms 
+**Supervised ML algorithms**
+
