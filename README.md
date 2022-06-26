@@ -1,6 +1,6 @@
 **Supervised ML algorithms** :octocat:
 
-   ***Classification and Regression***
+   ***Classification and Regression (Predictions)***
  
        1. Classification ( discrete value outputs / Categorical )
                 a.  Logistic Regression
@@ -12,7 +12,7 @@
                possibilities of examples.
                eg: cat/not cat, men/women, good/bad 
                 
-       2. Regression (Continuous Value Outputs)
+       2. Regression/ Prediction (Continuous Value Outputs)
                 a.  Linear Regression
                 b.  Regression Trees
                 c.  Non-Linear Regression
